@@ -1,2 +1,3 @@
 # Imhof
-	Software that generate a topographic map using data from OpenStreetMap.
+
+Software that generate a topographic map using data from OpenStreetMap.
