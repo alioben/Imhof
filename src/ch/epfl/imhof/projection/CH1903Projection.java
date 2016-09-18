@@ -2,8 +2,8 @@ package ch.epfl.imhof.projection;
 /**
  * Classe qui représente la « projection » CH1903 
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali
+ * @author Alami Idrissi Ali
  */
 
 import ch.epfl.imhof.PointGeo;

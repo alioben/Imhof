@@ -4,8 +4,8 @@ import java.io.Serializable;
 /**
  * Construit un PolyLine ouvert.
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali
+ * @author Alami Idrissi Ali
  */
 import java.util.List;
 

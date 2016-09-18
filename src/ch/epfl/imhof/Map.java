@@ -11,8 +11,8 @@ import ch.epfl.imhof.geometry.Polygon;
 /**
  * Représente une carte projetée, composée d'entités géométriques attribuées.
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali 
+ * @author Alami Idrissi Ali
  */
 public final class Map{
 

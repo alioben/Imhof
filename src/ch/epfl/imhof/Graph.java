@@ -10,8 +10,8 @@ import java.util.Set;
 /**
  * Représente un graphe non orienté.
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali
+ * @author Alami Idrissi Ali
  */
 public final class Graph<N> {
     private final Map<N, Set<N>> neighbours;

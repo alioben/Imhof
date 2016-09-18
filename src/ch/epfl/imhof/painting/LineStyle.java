@@ -16,8 +16,8 @@ public final class LineStyle {
     /**
      * Enumération représentant les terminaisons de ligne
      * 
-     * @author Ben Lalah Ali (251758)
-     * @author Alami Idrissi Ali (251759)
+     * @author Ben Lalah Ali
+     * @author Alami Idrissi Ali
      *
      */
     public enum LineCap {

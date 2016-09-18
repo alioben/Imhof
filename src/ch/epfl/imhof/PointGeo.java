@@ -3,8 +3,8 @@ package ch.epfl.imhof;
 /**
  * Un point à la surface de la Terre, en coordonnées sphériques.
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali 
+ * @author Alami Idrissi Ali
  */
 
 final public class PointGeo {

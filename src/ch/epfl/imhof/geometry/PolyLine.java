@@ -3,8 +3,8 @@ package ch.epfl.imhof.geometry;
 /**
  * Classe abstraite des PolyLines
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali
+ * @author Alami Idrissi Ali
  */
 
 import java.util.ArrayList;

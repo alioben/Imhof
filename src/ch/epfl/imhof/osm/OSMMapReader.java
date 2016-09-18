@@ -20,8 +20,8 @@ import ch.epfl.imhof.osm.OSMRelation.Member.Type;
  * construire une carte OpenStreetMap à partir de données stockées dans un
  * fichier au format OSM.
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali
+ * @author Alami Idrissi Ali
  */
 
 public final class OSMMapReader {

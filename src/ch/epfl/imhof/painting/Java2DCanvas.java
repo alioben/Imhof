@@ -19,8 +19,8 @@ import ch.epfl.imhof.geometry.Polygon;
 /**
  * Représente un toile en deux dimensions
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali
+ * @author Alami Idrissi Ali
  */
 public final class Java2DCanvas implements Canvas {
 

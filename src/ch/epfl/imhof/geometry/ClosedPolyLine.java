@@ -3,8 +3,8 @@ package ch.epfl.imhof.geometry;
 /**
  * Construit un PolyLine fermé.
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali
+ * @author Alami Idrissi Ali
  */
 
 import java.io.Serializable;

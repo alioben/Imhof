@@ -12,8 +12,8 @@ import ch.epfl.imhof.Vector3;
 /**
  * Représente un modèle numérique du terrain lié à un fichier HGT.
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali
+ * @author Alami Idrissi Ali
  */
 public final class HGTDigitalElevationModel implements DigitalElevationModel {
     private final FileInputStream stream;

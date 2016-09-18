@@ -3,8 +3,8 @@ package ch.epfl.imhof;
 /**
  * Représente une entité de type T dotée d'attributs.
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali
+ * @author Alami Idrissi Ali
  */
 
 public final class Attributed<T>{

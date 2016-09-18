@@ -3,8 +3,8 @@ package ch.epfl.imhof;
 /**
  * Représente un ensemble d'attributs et la valeur qui leur est associée.
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali 
+ * @author Alami Idrissi Ali
  */
 
 import java.util.Collections;

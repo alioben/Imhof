@@ -2,8 +2,8 @@ package ch.epfl.imhof.projection;
 /**
  * Interface de projection 
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali 
+ * @author Alami Idrissi Ali 
  */
 
 import ch.epfl.imhof.PointGeo;

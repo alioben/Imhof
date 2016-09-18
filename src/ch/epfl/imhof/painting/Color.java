@@ -3,8 +3,8 @@ package ch.epfl.imhof.painting;
 /**
  * Représente une couleur.
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali
+ * @author Alami Idrissi Ali
  */
 public final class Color {
     private final double r, g, b;

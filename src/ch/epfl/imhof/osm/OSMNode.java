@@ -3,8 +3,8 @@ package ch.epfl.imhof.osm;
 /**
  * Construit un noeud OSM.
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali
+ * @author Alami Idrissi Ali
  */
 import ch.epfl.imhof.Attributes;
 import ch.epfl.imhof.PointGeo;

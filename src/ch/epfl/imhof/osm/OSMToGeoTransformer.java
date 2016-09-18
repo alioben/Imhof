@@ -25,8 +25,8 @@ import ch.epfl.imhof.projection.Projection;
 /**
  * Représente un convertisseur de données OSM en carte.
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali
+ * @author Alami Idrissi Ali
  */
 
 public final class OSMToGeoTransformer {

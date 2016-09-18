@@ -15,8 +15,8 @@ import ch.epfl.imhof.painting.LineStyle.LineJoin;
 /**
  * Interface Représentant un peintre
  *
- * @author Ben Lalah Ali (251758)
- * @author Alami Idrissi Ali (251759)
+ * @author Ben Lalah Ali
+ * @author Alami Idrissi Ali
  */
 public interface Painter {
     public void drawMap(Map map, Canvas canvas);
